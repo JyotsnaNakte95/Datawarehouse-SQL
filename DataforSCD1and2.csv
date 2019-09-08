@@ -1,0 +1,26 @@
+CUSTID,NAME,ADDRESS 1,CITY,STATE,ZIP,CURRENT TYPENAME,START DATE,EXPIRED DATE
+2,Clio-Hutchinson Company,1257 Ac Avenue,Butler,SC,82126,State_Local Gov,2015-01-02,2099-01-02
+3,YuliChem Corporation,6440 Amet Street,Laguna Woods,KY,53141,Commercial,2015-01-03,2099-01-03
+4,Austin Burns Company,2041 Venenatis Avenue,Alexandria,DC,34440,Education,2015-01-04,2099-01-04
+18,Cross Incorporation,6605 Rhoncus Avenue,Hopkinsville,NH,25620,US Govt,2015-01-05,2099-01-05
+6,Austin Ferrell Tech,8666 Justo Road,Pullman,PA,55979,Commercial,2015-01-06,2099-01-06
+7,Hop Adams Corporation,704 Nisl Road,Sun Valley,NH,84458,Education,2015-01-07,2099-01-07
+8,Mullins Incorporation Technical,4009 Ornare Road,Birmingham,NE,59509,State_Local Gov,2015-01-08,2099-01-08
+9,Meridian Resources Corporation,1977 Symbiotic Turnpike,Fall River,MA,12724,Commercial,2015-01-09,2099-01-09
+10,Byron Chemicals Institute,6831 Donec Street,Salt Lake City,IN,41050,Commercial,2015-01-10,2099-01-10
+40,Gte Technical Company,7196 Heaver Lane,Winter Garden,FL,34777,State_Local Gov,2015-01-26,2099-01-26
+16,Martinez Disposables Company,5331 Nunc Avenue,Tucson,DC,79991,US Govt,2015-01-21,2099-01-21
+36,Charity Core Incorporation ,3254 Hendrerit Avenue,Effingham,WY,27502,Education,2015-01-22,2099-01-22
+11,Beasley Tech,7800 Nec Road,Idabel,MA,57132,Commercial,2015-01-11,2099-01-11
+24,Chantale-Huffman Incorporation,2761 Elmwood Street,Wilmington,DL,58334,State_Local Gov,2015-01-12,2099-01-12
+23,Chemfix Technologies Incorporation,16653 Capital Drive,Rochester,NY,14623,State_Local Gov,2015-01-13,2099-01-13
+19,Firstfed America Bancorp Incorporation,220 John Street,Rochester,NY,14623,Education,2015-01-14,2099-01-14
+31,Fuentes Incorporation,8965 Crittenden Road,San Diego,CA,78787,US Govt,2015-01-15,2099-01-15
+28,Oleg Jones,678 Elmwood Terraces,Seattle,WS,32413,Commercial,2015-01-16,2099-01-16
+12,Processing Equipment Corporation,29843 Kingston Avenue,San Diego,CA,63454,Commercial,2015-01-17,2099-01-17
+13,Zena Machines,1277 Hendrer Road,Biddeford,MO,78933,State_Local Gov,2015-01-18,2099-01-18
+14,The Final Frontier,528 Curo State Avenue,West Haven,WY,44789,State_Local Gov,2015-01-19,2099-01-19
+15,Merritt Long,30 Saint John Avenue,Tucson,DC,98172,Commercial,2015-01-20,2099-01-20
+37,Ronan French,8773 Flight Road,Vallejo,MA,31089,Education,2015-01-23,2099-01-23
+38,Blevins Corporation,2571 Donec Avenue,Winooski,SD,34515,Commercial,2015-01-24,2099-01-24
+39,Ashton Washington,658 Criten Elm Road,Winooski,SD,51352,Education,2015-01-25,2099-01-25
