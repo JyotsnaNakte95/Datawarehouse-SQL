@@ -1,0 +1,102 @@
+Customer SK,TPCW_CUSTID,TPCE_CUSTID,PEC_CUSTID,NAME,ADDRESS 1,ADDRESS 2,CITY,STATE,ZIP,CUSTTYPEID,TYPENAME,HISTORIC TYPENAME,VERSION,START DATE,END DATE
+-1,-4000,-4000,-4000,NULL,NULL,NULL,NULL,XX,NULL,X,NULL,NULL,NULL,1999-01-01,2099-01-01
+1,-4000,-4000,35,Ann Lee,3845 Nunc Road,NULL,Merizo,GA,10764,F,US Govt,US Govt,Current,1999-01-01,2099-01-01
+2,39,-4000,-4000,Ashton Washington,7726 Donec Road,NULL,Vallejo,MA,11999,E,Education,Education,Current,1999-01-01,2099-01-01
+3,-4000,-4000,25,Atkins,4607 Risus Road,NULL,Waukegan,NC,43147,S,State_Local Gov,State_Local Gov,Current,1999-01-01,2099-01-01
+4,4,-4000,-4000,Austin Burns,2041 Venenatis Avenue,NULL,Alexandria,DC,34440,E,Education,Education,Current,1999-01-01,2099-01-01
+5,6,-4000,11,Austin Ferrell,8666 Justo Road,NULL,Pullman,PA,55979,C,Commercial,Commercial,Current,1999-01-01,2099-01-01
+6,-4000,-4000,3,Baxter May,796-2366 Vel Avenue,NULL,Meriden,FL,58328,C,Commercial,Commercial,Current,1999-01-01,2099-01-01
+7,11,-4000,-4000,Beasley,7800 Nec Road,NULL,Idabel,MA,57132,C,Commercial,Commercial,Current,1999-01-01,2099-01-01
+8,-4000,3,-4000,Beckman Coulter Incorporation,5841 Pervades Drive,NULL,Fairfax,VA,22035,E,Education,Education,Current,1999-01-01,2099-01-01
+9,1,-4000,37,Beverly Equipment,7581 Quisque Street,NULL,Bloomington,HI,88440,S,State_Local Gov,State_Local Gov,Current,1999-01-01,2099-01-01
+10,38,-4000,29,Blevins,2571 Donec Avenue,NULL,Winooski,SD,65512,C,Commercial,Commercial,Current,1999-01-01,2099-01-01
+11,10,-4000,-4000,Byron Chemicals,6831 Donec Street,NULL,Salt Lake City,IN,41050,C,Commercial,Commercial,Current,1999-01-01,2099-01-01
+12,-4000,-4000,12,Cain,1116 Augue Street,NULL,Warwick,DC,38450,S,State_Local Gov,State_Local Gov,Current,1999-01-01,2099-01-01
+13,17,19,-4000,Camera Platforms International Incorporation,5347 Deposed Street,NULL,Houston,TX,77244,S,State_Local Gov,State_Local Gov,Current,1999-01-01,2099-01-01
+14,24,-4000,-4000,Chantale-Huffman Incorporation,2761 Infinity Street,NULL,New Iberia,NH,65327,S,State_Local Gov,State_Local Gov,Current,1999-01-01,2099-01-01
+15,36,-4000,-4000,Charity Incorporation,3254 Hendrerit Avenue,NULL,Effingham,WY,27502,E,Education,Education,Current,1999-01-01,2099-01-01
+16,23,22,-4000,Chemfix Technologies Incorporation,11533 Wonderingly Drive,Suite 50,Pasadena Hills,MO,63121,S,State_Local Gov,State_Local Gov,Current,1999-01-01,2099-01-01
+17,-4000,-4000,27,Clare Baird,6152 Auctor Road,NULL,Wilson,MS,29338,C,Commercial,Commercial,Current,1999-01-01,2099-01-01
+18,2,-4000,-4000,Clio-Hutchinson,1257 Ac Avenue,NULL,Butler,SC,82126,S,State_Local Gov,State_Local Gov,Current,1999-01-01,2099-01-01
+19,-4000,12,-4000,Cohesant Technologies Incorporation,3334 Eggshell Circle,Dept #690,Oakley,SC,29461,F,US Govt,US Govt,Current,1999-01-01,2099-01-01
+20,-4000,-4000,15,Colton Maldonado,1869 Leo Road,NULL,Cedar Rapids,SD,97640,C,Commercial,Commercial,Current,1999-01-01,2099-01-01
+21,18,-4000,23,Cross,6605 Rhoncus Avenue,NULL,Hopkinsville,NH,25620,F,US Govt,US Govt,Current,1999-01-01,2099-01-01
+22,-4000,-4000,26,Dakota Mills,7442 Amet Avenue,NULL,Syracuse,DE,56656,F,US Govt,US Govt,Current,1999-01-01,2099-01-01
+23,27,34,19,Emerson Electric Company,1792 Squash Drive,NULL,South Texarkana,TX,75501,E,Education,Education,Current,1999-01-01,2099-01-01
+24,-4000,7,-4000,Fedders Corporation,3311 Blatantly Circle,Dept #520,Santa Fe Springs,CA,90670,E,Education,Education,Current,1999-01-01,2099-01-01
+25,35,-4000,-4000,Ferdinand Supply,6979 Quis Street,NULL,Nome,DL,58359,F,US Govt,US Govt,Current,1999-01-01,2099-01-01
+26,-4000,-4000,32,Ferengi Treasures,716-6837 Vulputate Avenue,NULL,Paramount,NY,35644,C,Commercial,Commercial,Current,1999-01-01,2099-01-01
+27,-4000,6,-4000,Fidelity National Corp Ga,11455 Sheaf Drive,Dept #915,Anthony,FL,32617,S,State_Local Gov,State_Local Gov,Current,1999-01-01,2099-01-01
+28,19,26,38,Firstfed America Bancorp Incorporation,5656 Settler Street,Dept #851,Ward Prairie,TX,75840,E,Education,Education,Current,1999-01-01,2099-01-01
+29,31,-4000,-4000,Fuentes Incorporation,7063 Phasellus Road,NULL,Compton,WV,68519,F,US Govt,US Govt,Current,1999-01-01,2099-01-01
+30,25,-4000,-4000,Garrison Works,3801 Lacus Road,NULL,Reno,WV,46307,E,Education,Education,Current,1999-01-01,2099-01-01
+31,-4000,-4000,8,Gemma Castro,9101 Duis Street,NULL,Passaic,VT,40926,F,US Govt,US Govt,Current,1999-01-01,2099-01-01
+32,29,-4000,-4000,Genevieve Day,284-1916 Ac Street,NULL,Troy,IN,68914,E,Education,Education,Current,1999-01-01,2099-01-01
+33,-4000,-4000,16,Googol,5453 Dictum Avenue,NULL,Jenks,LA,96393,C,Commercial,Commercial,Current,1999-01-01,2099-01-01
+34,-4000,9,-4000,Greate Bay Casino Corp De,4255 Depart Lane,Dept #242,Randolph Air Force Base,TX,78148,F,US Govt,US Govt,Current,1999-01-01,2099-01-01
+35,-4000,32,-4000,Greenman Technologies Incorporation,4910 Liveried Boulevard,NULL,Dabney,IN,47023,F,US Govt,US Govt,Current,1999-01-01,2099-01-01
+36,40,28,-4000,Gte Corporation,7196 Heaver Lane,Dept #532,Winter Garden,FL,34777,S,State_Local Gov,State_Local Gov,Current,1999-01-01,2099-01-01
+37,-4000,-4000,10,Hammett Farley,1668 In Street,NULL,Yonkers,AK,18651,S,State_Local Gov,State_Local Gov,Current,1999-01-01,2099-01-01
+38,-4000,-4000,1,Haynes,2920 Auctor Road,NULL,Moraga,AZ,70314,E,Education,Education,Current,1999-01-01,2099-01-01
+39,-4000,24,-4000,Helpmate Robotics Incorporation,9711 Writers Turnpike,Suite 213,Saint Cloud,WI,53079,E,Education,Education,Current,1999-01-01,2099-01-01
+40,-4000,36,-4000,Hickory Tech Corporation,11119 Periphery Turnpike,Dept #633,Simpson,LA,71474,F,US Govt,US Govt,Current,1999-01-01,2099-01-01
+41,7,-4000,21,Hop Adams,704 Nisl Road,NULL,Sun Valley,NH,84458,E,Education,Education,Current,1999-01-01,2099-01-01
+42,33,-4000,-4000,India-Stuart,1973 At Avenue,NULL,Cudahy,CL,76482,F,US Govt,US Govt,Current,1999-01-01,2099-01-01
+43,-4000,35,-4000,Integra -- A Hotel & Restaurant Company,5222 Blazed Street,Dept #822,Parsons,TN,38363,F,US Govt,US Govt,Current,1999-01-01,2099-01-01
+44,-4000,-4000,13,Knight,765 Eget Avenue,NULL,Eureka,FL,57500,F,US Govt,US Govt,Current,1999-01-01,2099-01-01
+45,-4000,-4000,30,Knox Reid,500 Eu Avenue,NULL,Pass Christian,WY,35949,C,Commercial,Commercial,Current,1999-01-01,2099-01-01
+46,-4000,-4000,36,Kuame Barnes,8757 Tincidunt Road,NULL,Lahaina,RI,60529,F,US Govt,US Govt,Current,1999-01-01,2099-01-01
+47,-4000,20,-4000,Labor Ready Incorporation,4618 Days Drive,Dept #759,Waterville,WA,98858,F,US Govt,US Govt,Current,1999-01-01,2099-01-01
+48,-4000,25,-4000,Liberty Homes Incorporation,3051 Bumblers Lane,NULL,Medon,TN,38356,F,US Govt,US Govt,Current,1999-01-01,2099-01-01
+49,-4000,23,-4000,Ligand Pharmaceuticals Incorporated,8092 Bluest Street,NULL,Moorcroft,WY,82721,F,US Govt,US Govt,Current,1999-01-01,2099-01-01
+50,-4000,27,-4000,Lnr Property Corporation,9382 Demolition Street,NULL,College Square,IA,50613,F,US Govt,US Govt,Current,1999-01-01,2099-01-01
+51,-4000,4,-4000,Magainin Pharmaceuticals Incorporation,9138 Planetesimal Lane,Dept #332,Twining,MI,48766,F,US Govt,US Govt,Current,1999-01-01,2099-01-01
+52,-4000,-4000,17,Mallory Lynch,974 Nisl Road,NULL,Washington,ME,15623,F,US Govt,US Govt,Current,1999-01-01,2099-01-01
+53,-4000,-4000,7,Martin Donaldson,2704 At Road,NULL,Gardner,GA,31421,E,Education,Education,Current,1999-01-01,2099-01-01
+54,16,-4000,24,Martinez Disposables,5331 Nunc Avenue,NULL,Tucson,DC,79991,F,US Govt,US Govt,Current,1999-01-01,2099-01-01
+55,-4000,-4000,4,Maya Brewer,6836 At Road,PO Box 825,Union City,ND,82051,S,State_Local Gov,State_Local Gov,Current,1999-01-01,2099-01-01
+56,-4000,-4000,18,Melvin House,8371 Nullam Road,NULL,Isle of Palms,ME,89644,E,Education,Education,Current,1999-01-01,2099-01-01
+57,32,-4000,-4000,Mendoza Chemicals,4826 Urna Avenue,NULL,Everett,MD,87048,C,Commercial,Commercial,Current,1999-01-01,2099-01-01
+58,9,16,-4000,Meridian Resources Corporation,1977 Symbiotic Turnpike,Dept #805,Fall River,MA,12724,C,Commercial,Commercial,Current,1999-01-01,2099-01-01
+59,15,-4000,-4000,Merritt Long,3072 Cursus Avenue,Suite 30,West Haven,WY,83709,C,Commercial,Commercial,Current,1999-01-01,2099-01-01
+60,-4000,2,-4000,Motts Holdings Incorporation,1618 Greenland Street,NULL,Tallahassee,FL,32304,E,Education,Education,Current,1999-01-01,2099-01-01
+61,8,-4000,5,Mullins Incorporation,4009 Ornare Road,NULL,Birmingham,NE,59509,S,State_Local Gov,State_Local Gov,Current,1999-01-01,2099-01-01
+62,-4000,14,-4000,Newcor Incorporation,8717 Involve Drive,Suite 401,Homer,MI,49245,S,State_Local Gov,State_Local Gov,Current,1999-01-01,2099-01-01
+63,28,-4000,-4000,Oleg Jones,5491 Nec Road,NULL,Moraga,NE,82394,C,Commercial,Commercial,Current,1999-01-01,2099-01-01
+64,-4000,-4000,20,Pewter Gym,9028 Non Street,NULL,Sandy,FL,87202,C,Commercial,Commercial,Current,1999-01-01,2099-01-01
+65,-4000,33,-4000,Polymer Group Incorporation,11368 Harder Drive,Suite 204,Maidstone,VT,15905,C,Commercial,Commercial,Current,1999-01-01,2099-01-01
+66,20,-4000,-4000,Price Rivers,2853 Aenean Avenue,NULL,Sault Ste. Marie,MS,59316,S,State_Local Gov,State_Local Gov,Current,1999-01-01,2099-01-01
+67,-4000,39,-4000,Pricellular Corporation,10947 Eagle Street,Dept #5,Lisbon Falls,ME,14252,C,Commercial,Commercial,Current,1999-01-01,2099-01-01
+68,12,40,-4000,Processing Equipment Corporation,29843 Klingon Road,Dept #2,Naperville,IL,60563,C,Commercial,Commercial,Current,1999-01-01,2099-01-01
+69,-4000,13,-4000,Publishing Co Of North America Incorporation,978 Degrees Street,Suite 518,Heron Bay,AL,36523,S,State_Local Gov,State_Local Gov,Current,1999-01-01,2099-01-01
+70,34,30,-4000,Pulitzer Publishing Company,126 Pathological Circle,Suite 277,Woodbury,NY,11797,S,State_Local Gov,State_Local Gov,Current,1999-01-01,2099-01-01
+71,-4000,15,-4000,Railamerica Incorporation,576 Stew Turnpike,NULL,Mans De Navarro,PR,10778,C,Commercial,Commercial,Current,1999-01-01,2099-01-01
+72,-4000,-4000,6,Raphael Allison,734-2598 Sed Avenue,NULL,La Crosse,HI,58702,C,Commercial,Commercial,Current,1999-01-01,2099-01-01
+73,37,-4000,39,Ronan French,8773 Feugiat Road,NULL,Gary,WA,17387,E,Education,Education,Current,1999-01-01,2099-01-01
+74,-4000,1,-4000,Room Plus Incorporation,6037 Ecuadorian Street,Suite 836,Clinton,MI,49236,C,Commercial,Commercial,Current,1999-01-01,2099-01-01
+75,26,-4000,-4000,Ruby Petty,3142 Congue Street,NULL,Chicago,IL,76404,S,State_Local Gov,State_Local Gov,Current,1999-01-01,2099-01-01
+76,-4000,-4000,2,Rudyard-Knapp,9261 Nulla Street,NULL,Sault Ste. Marie,LA,94298,S,State_Local Gov,State_Local Gov,Current,1999-01-01,2099-01-01
+77,5,10,-4000,Saint Andrews Golf Corporation,8068 Substances Street,NULL,North Miami,FL,33261,F,US Govt,US Govt,Current,1999-01-01,2099-01-01
+78,22,-4000,-4000,Santiago Processing,4565 Tempor Avenue,NULL,Hanahan,AK,15743,S,State_Local Gov,State_Local Gov,Current,1999-01-01,2099-01-01
+79,21,-4000,-4000,Santos LLC,9130 Fames Road,NULL,Billings,IN,12869,C,Commercial,Commercial,Current,1999-01-01,2099-01-01
+80,-4000,-4000,28,Schultz Learning,8542 Quis Street,NULL,Spartanburg,ND,73217,E,Education,Education,Current,1999-01-01,2099-01-01
+81,-4000,18,-4000,Scp Pool Corporation,755 Leek Street,Suite 251,Enid,OK,73706,F,US Govt,US Govt,Current,1999-01-01,2099-01-01
+82,-4000,38,-4000,Seattle Filmworks Incorporation,4958 Dietitian Street,NULL,Davis,MO,63379,F,US Govt,US Govt,Current,1999-01-01,2099-01-01
+83,-4000,-4000,14,Serrano,7212 Eleifend Street,NULL,Princeton,KY,66785,C,Commercial,Commercial,Current,1999-01-01,2099-01-01
+84,30,31,-4000,Setron,3085 Breakthrough Drive,Dept #80,Hart,MO,64865,S,State_Local Gov,State_Local Gov,Current,1999-01-01,2099-01-01
+85,-4000,21,-4000,Shaw Brothers,2567 Cardinal Drive,Suite 371,Whiskey Flats,NV,89415,S,State_Local Gov,State_Local Gov,Current,1999-01-01,2099-01-01
+86,-4000,0,-4000,Specialty Teleconstructors Incorporation,1570 Hordes Drive,NULL,Columbia,SC,29260,F,US Govt,US Govt,Current,1999-01-01,2099-01-01
+87,-4000,-4000,31,Starfleet Academy,3061 Donec Avenue,NULL,Canandaigua,UT,75963,E,Education,Education,Current,1999-01-01,2099-01-01
+88,-4000,5,-4000,Sterling Financial Corp Washington,7258 Meriting Avenue,Dept #505,Portland,OR,97201,E,Education,Education,Current,1999-01-01,2099-01-01
+89,-4000,11,-4000,Synaptic Pharmaceutical Corporation,8072 Powerless Street,NULL,Bridgeport,IL,62417,C,Commercial,Commercial,Current,1999-01-01,2099-01-01
+90,-4000,-4000,33,Tallulah,3376 Aliquet Street,NULL,Batavia,NM,50742,C,Commercial,Commercial,Current,1999-01-01,2099-01-01
+91,-4000,37,-4000,Televideo Incorporation,939 Publishers Turnpike,Dept #793,Fort Hood,TX,76544,E,Education,Education,Current,1999-01-01,2099-01-01
+92,14,-4000,-4000,The Final Frontier,528 Curabitur Road,NULL,Biddeford,MO,39683,S,State_Local Gov,State_Local Gov,Current,1999-01-01,2099-01-01
+93,-4000,-4000,9,The Product Company (East),20021 Barnes Road,NULL,Stratford,NY,13470,C,Commercial,Commercial,Current,1999-01-01,2099-01-01
+94,-4000,-4000,34,The Product Company (West),21 E Bullard Avenue,NULL,Fresno,CA,93710,C,Commercial,Commercial,Current,1999-01-01,2099-01-01
+95,-4000,8,-4000,United Healthcare Corporation,675 Hordes Turnpike,Dept #855,Malaga,NM,88263,E,Education,Education,Current,1999-01-01,2099-01-01
+96,-4000,29,-4000,Usx-steel Group Incorporation,7120 Whimsically Turnpike,NULL,Olympia,WA,98501,S,State_Local Gov,State_Local Gov,Current,1999-01-01,2099-01-01
+97,-4000,17,-4000,V.e.v. Sa,7079 Aspect Circle,NULL,Ross Siding,PA,17723,F,US Govt,US Govt,Current,1999-01-01,2099-01-01
+98,-4000,-4000,22,Xavier Harmon,2285 Ante Street,NULL,Farmington,WV,16456,E,Education,Education,Current,1999-01-01,2099-01-01
+99,3,-4000,-4000,YuliChem,6440 Amet Street,NULL,Laguna Woods,KY,53141,C,Commercial,Commercial,Current,1999-01-01,2099-01-01
+100,13,-4000,40,Zena Machines,1277 Hendrerit Avenue,NULL,San Juan,WA,10776,S,State_Local Gov,State_Local Gov,Current,1999-01-01,2099-01-01

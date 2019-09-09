@@ -1,0 +1,105 @@
+Product SK,TPCW ProdId,TPCE ProdId,PEC ProdID,Prod Desc,Prod Price 1,Prod Price 2,TPCW-E Prod Unit Cost,PEC Prod Unit Cost,Prod Type ID,Prod Type Desc,BUID,BU Name,BU Abbr,Version,Start Date,End Date
+-1,-1,-1,-1,NULL,-9999.99,-9999.99,-9999.99,-9999.99,-1,NULL,X,NULL,NULL,NULL,1999-01-01,2099-01-01
+1,56,56,18,Allis Polishing Equipment        ,201.77,176.35,160.48,112,3,Polishing Equipment,A,Processing Equipment,Equipment,Current,1999-01-01,2099-01-01
+2,72,72,-4000,Anthem Tray Supplies             ,134.92,112.39,109.02,-9999.99,8,Tray Supplies,B,Disposable Supplies,Supplies,Current,1999-01-01,2099-01-01
+3,5,5,25,Automobiles Fillers              ,283.83,227.63,218.52,218.52,12,Fillers,D,Miscellaneous,Misc,Current,1999-01-01,2099-01-01
+4,24,24,7,Bandage Manufacturing Equipment      ,298,267.01,253.66,234,2,Manufacturing Equipment,A,Processing Equipment,Equipment,Current,1999-01-01,2099-01-01
+5,98,98,-4000,Barrels Flushing Chemicals       ,135.1,116.59,108.43,-9999.99,10,Flushing Chemicals,C,Chemicals,Chemicals,Current,1999-01-01,2099-01-01
+6,92,92,-4000,Behind Tray Supplies             ,166.65,138.99,129.26,-9999.99,8,Tray Supplies,B,Disposable Supplies,Supplies,Current,1999-01-01,2099-01-01
+7,94,94,-4000,Beliefs Freezing Chemicals       ,566.64,483.91,454.88,-9999.99,11,Freezing Chemicals,C,Chemicals,Chemicals,Current,1999-01-01,2099-01-01
+8,93,93,31,Bellowing Polishing Equipment    ,502.57,451.31,446.8,400,3,Polishing Equipment,A,Processing Equipment,Equipment,Current,1999-01-01,2099-01-01
+9,64,64,-4000,Berwick Fillers                  ,583.85,487.51,463.13,-9999.99,12,Fillers,D,Miscellaneous,Misc,Current,1999-01-01,2099-01-01
+10,44,44,35,Birthdays Manufacturing Equipment    ,196.56,173.17,161.05,115,2,Manufacturing Equipment,A,Processing Equipment,Equipment,Current,1999-01-01,2099-01-01
+11,43,43,-4000,Blazed Covers                    ,495,416.79,404.29,-9999.99,13,Covers,D,Miscellaneous,Misc,Current,1999-01-01,2099-01-01
+12,29,29,-4000,Bluest Fillers                   ,507.35,428.2,398.23,-9999.99,12,Fillers,D,Miscellaneous,Misc,Current,1999-01-01,2099-01-01
+13,36,36,43,Bomber Photo Equipment           ,461.34,400.44,380.42,336,1,Photo Equipment,A,Processing Equipment,Equipment,Current,1999-01-01,2099-01-01
+14,55,55,-4000,Bumblers Plastic Supplies        ,545.31,466.24,447.59,-9999.99,7,Plastic Supplies,B,Disposable Supplies,Supplies,Current,1999-01-01,2099-01-01
+15,42,42,-4000,Carelessly Freezing Chemicals    ,559.67,467.88,425.77,-9999.99,11,Freezing Chemicals,C,Chemicals,Chemicals,Current,1999-01-01,2099-01-01
+16,25,25,8,Chalmers Polishing Equipment     ,289.17,242.61,223.2,215,3,Polishing Equipment,A,Processing Equipment,Equipment,Current,1999-01-01,2099-01-01
+17,58,58,-4000,Characterization Plastic Supplies,231.68,185.58,168.88,-9999.99,7,Plastic Supplies,B,Disposable Supplies,Supplies,Current,1999-01-01,2099-01-01
+18,32,32,10,Chartable Photo Equipment        ,410.17,347.41,312.67,295,1,Photo Equipment,A,Processing Equipment,Equipment,Current,1999-01-01,2099-01-01
+19,35,35,12,Chromium Photo Equipment         ,565.5,457.49,425.47,326,1,Photo Equipment,A,Processing Equipment,Equipment,Current,1999-01-01,2099-01-01
+20,7,7,38,Commendation Fillers             ,436.33,380.04,364.84,364.84,12,Fillers,D,Miscellaneous,Misc,Current,1999-01-01,2099-01-01
+21,37,37,42,Concentrators Polishing Equipment,584.57,524.94,482.94,472,3,Polishing Equipment,A,Processing Equipment,Equipment,Current,1999-01-01,2099-01-01
+22,41,41,-4000,Consideration Tray Supplies      ,172.56,146.85,139.51,-9999.99,8,Tray Supplies,B,Disposable Supplies,Supplies,Current,1999-01-01,2099-01-01
+23,33,33,-4000,Consumable Tray Supplies         ,395.7,347.42,337,-9999.99,8,Tray Supplies,B,Disposable Supplies,Supplies,Current,1999-01-01,2099-01-01
+24,73,73,-4000,Cosgrove Jacks                   ,298.87,267.79,254.4,-9999.99,15,Jacks,D,Miscellaneous,Misc,Current,1999-01-01,2099-01-01
+25,61,61,20,Courthouses Manufacturing Equipment  ,285.62,243.63,231.45,182,2,Manufacturing Equipment,A,Processing Equipment,Equipment,Current,1999-01-01,2099-01-01
+26,13,13,13,Coward Covers                    ,429.79,348.99,328.05,328.05,13,Covers,D,Miscellaneous,Misc,Current,1999-01-01,2099-01-01
+27,90,90,-4000,Curiouser Cleaning Supplies      ,419.36,364.42,338.91,-9999.99,5,Cleaning Supplies,B,Disposable Supplies,Supplies,Current,1999-01-01,2099-01-01
+28,23,23,-4000,Decided Tray Supplies            ,233.3,202.27,198.22,-9999.99,8,Tray Supplies,B,Disposable Supplies,Supplies,Current,1999-01-01,2099-01-01
+29,10,10,9,Defeated Tray Supplies           ,559.74,476.9,448.29,448.29,8,Tray Supplies,B,Disposable Supplies,Supplies,Current,1999-01-01,2099-01-01
+30,75,75,-4000,Deferrable Freezing Chemicals    ,145.03,124.44,113.24,-9999.99,11,Freezing Chemicals,C,Chemicals,Chemicals,Current,1999-01-01,2099-01-01
+31,21,21,6,Denigrating Polishing Equipment  ,565.95,454.46,427.19,402,3,Polishing Equipment,A,Processing Equipment,Equipment,Current,1999-01-01,2099-01-01
+32,30,30,-4000,Detectives Jacks                 ,283.32,248.47,236.05,-9999.99,15,Jacks,D,Miscellaneous,Misc,Current,1999-01-01,2099-01-01
+33,85,85,39,Disallow Manufacturing Equipment     ,165.24,145.91,144.45,97,2,Manufacturing Equipment,A,Processing Equipment,Equipment,Current,1999-01-01,2099-01-01
+34,15,15,-4000,Disposed Fillers                 ,158.84,138.03,132.51,-9999.99,12,Fillers,D,Miscellaneous,Misc,Current,1999-01-01,2099-01-01
+35,46,46,-4000,Distantly Paper Supplies         ,518.49,436.05,418.61,-9999.99,6,Paper Supplies,B,Disposable Supplies,Supplies,Current,1999-01-01,2099-01-01
+36,96,96,-4000,Drafty Cleaning Supplies         ,107.13,92.67,88.96,-9999.99,5,Cleaning Supplies,B,Disposable Supplies,Supplies,Current,1999-01-01,2099-01-01
+37,95,95,36,Duplicator Polishing Equipment   ,544.28,465.36,432.78,409,3,Polishing Equipment,A,Processing Equipment,Equipment,Current,1999-01-01,2099-01-01
+38,4,4,32,Embodying Cleaning Supplies      ,250.91,213.52,207.11,207.11,5,Cleaning Supplies,B,Disposable Supplies,Supplies,Current,1999-01-01,2099-01-01
+39,14,14,-4000,Engle Photo Chemicals            ,429.94,346.1,342.64,-9999.99,9,Photo Chemicals,C,Chemicals,Chemicals,Current,1999-01-01,2099-01-01
+40,16,16,-4000,Enhanced Covers                  ,460.96,384.44,361.37,-9999.99,13,Covers,D,Miscellaneous,Misc,Current,1999-01-01,2099-01-01
+41,1,1,1,Enumerator Polishing Equipment   ,164.97,142.53,135.4,120,3,Polishing Equipment,A,Processing Equipment,Equipment,Current,1999-01-01,2099-01-01
+42,70,70,37,Escape Manufacturing Equipment       ,584.38,523.6,507.89,463,2,Manufacturing Equipment,A,Processing Equipment,Equipment,Current,1999-01-01,2099-01-01
+43,66,66,-4000,Exemplar Freezing Chemicals      ,198.4,160.9,152.85,-9999.99,11,Freezing Chemicals,C,Chemicals,Chemicals,Current,1999-01-01,2099-01-01
+44,65,65,22,Extinguisher Manufacturing Equipment ,120.39,98.36,90.49,65,2,Manufacturing Equipment,A,Processing Equipment,Equipment,Current,1999-01-01,2099-01-01
+45,20,20,5,Flake Photo Equipment            ,232.26,204.39,194.17,170,1,Photo Equipment,A,Processing Equipment,Equipment,Current,1999-01-01,2099-01-01
+46,74,74,-4000,Flanker Fillers                  ,271.44,236.15,219.62,-9999.99,12,Fillers,D,Miscellaneous,Misc,Current,1999-01-01,2099-01-01
+47,60,60,19,Habitually Manufacturing Equipment   ,509.3,419.15,394,354,2,Manufacturing Equipment,A,Processing Equipment,Equipment,Current,1999-01-01,2099-01-01
+48,19,19,-4000,Hesitating Jacks                 ,124.46,100.07,96.07,-9999.99,15,Jacks,D,Miscellaneous,Misc,Current,1999-01-01,2099-01-01
+49,69,69,-4000,Hits Tray Supplies               ,439.53,359.1,341.14,-9999.99,8,Tray Supplies,B,Disposable Supplies,Supplies,Current,1999-01-01,2099-01-01
+50,54,54,-4000,Honeymoon Photo Chemicals        ,326.13,292.21,271.76,-9999.99,9,Photo Chemicals,C,Chemicals,Chemicals,Current,1999-01-01,2099-01-01
+51,83,83,-4000,Horses Lifts                     ,487.3,402.51,366.28,-9999.99,14,Lifts,D,Miscellaneous,Misc,Current,1999-01-01,2099-01-01
+52,52,52,-4000,Identical Freezing Chemicals     ,578.07,465.92,447.28,-9999.99,11,Freezing Chemicals,C,Chemicals,Chemicals,Current,1999-01-01,2099-01-01
+53,40,40,16,Insensitivity Manufacturing Equipment,200.71,180.44,169.61,117,2,Manufacturing Equipment,A,Processing Equipment,Equipment,Current,1999-01-01,2099-01-01
+54,105,-4000,-4000,Just Paper Supplies              ,278.59,201.34,192.67,-9999.99,6,Paper Supplies,B,Disposable Supplies,Supplies,Current,1999-01-01,2099-01-01
+55,104,-4000,-4000,LCARS Covers                     ,289.41,231.42,211.76,-9999.99,13,Covers,D,Miscellaneous,Misc,Current,1999-01-01,2099-01-01
+56,68,68,24,Loaves Polishing Equipment       ,425.59,361.33,354.1,241,3,Polishing Equipment,A,Processing Equipment,Equipment,Current,1999-01-01,2099-01-01
+57,78,78,-4000,Measured Photo Chemicals         ,318.06,270.67,254.43,-9999.99,9,Photo Chemicals,C,Chemicals,Chemicals,Current,1999-01-01,2099-01-01
+58,9,9,29,Millimeters Flushing Chemicals   ,295.56,251.82,241.75,241.75,10,Flushing Chemicals,C,Chemicals,Chemicals,Current,1999-01-01,2099-01-01
+59,18,18,4,Miniaturizing Manufacturing Equipment,456.24,379.59,353.02,325,2,Manufacturing Equipment,A,Processing Equipment,Equipment,Current,1999-01-01,2099-01-01
+60,82,82,-4000,Numerals Covers                  ,102.87,88.98,83.64,-9999.99,13,Covers,D,Miscellaneous,Misc,Current,1999-01-01,2099-01-01
+61,67,67,23,Occlusion Manufacturing Equipment    ,199.88,177.29,164.88,72,2,Manufacturing Equipment,A,Processing Equipment,Equipment,Current,1999-01-01,2099-01-01
+62,17,17,-4000,Optima Cleaning Supplies         ,288.41,255.53,242.75,-9999.99,5,Cleaning Supplies,B,Disposable Supplies,Supplies,Current,1999-01-01,2099-01-01
+63,39,39,-4000,Overlays Plastic Supplies        ,301.08,254.41,241.69,-9999.99,7,Plastic Supplies,B,Disposable Supplies,Supplies,Current,1999-01-01,2099-01-01
+64,81,81,28,Palm Polishing Equipment         ,122.39,105.38,103.27,87,3,Polishing Equipment,A,Processing Equipment,Equipment,Current,1999-01-01,2099-01-01
+65,48,48,-4000,Patriarchal Cleaning Supplies    ,351.54,284.75,264.82,-9999.99,5,Cleaning Supplies,B,Disposable Supplies,Supplies,Current,1999-01-01,2099-01-01
+66,100,100,33,Pervasively Manufacturing Equipment  ,374.14,334.86,308.07,303,2,Manufacturing Equipment,A,Processing Equipment,Equipment,Current,1999-01-01,2099-01-01
+67,27,27,-4000,Pinnings Plastic Supplies        ,337.17,302.44,287.32,-9999.99,7,Plastic Supplies,B,Disposable Supplies,Supplies,Current,1999-01-01,2099-01-01
+68,6,6,2,Planetesimal Manufacturing Equipment ,347.28,307,285.51,250,2,Manufacturing Equipment,A,Processing Equipment,Equipment,Current,1999-01-01,2099-01-01
+69,51,51,-4000,Reflection Lifts                 ,497.85,447.57,438.62,-9999.99,14,Lifts,D,Miscellaneous,Misc,Current,1999-01-01,2099-01-01
+70,50,50,-4000,Restarts Paper Supplies          ,524.38,448.34,425.92,-9999.99,6,Paper Supplies,B,Disposable Supplies,Supplies,Current,1999-01-01,2099-01-01
+71,99,99,-4000,Richards Freezing Chemicals      ,529.35,475.36,470.61,-9999.99,11,Freezing Chemicals,C,Chemicals,Chemicals,Current,1999-01-01,2099-01-01
+72,53,53,-4000,Ruffle Freezing Chemicals        ,476.38,394.92,379.12,-9999.99,11,Freezing Chemicals,C,Chemicals,Chemicals,Current,1999-01-01,2099-01-01
+73,34,34,11,Sailors Manufacturing Equipment      ,340.48,290.43,278.81,235,2,Manufacturing Equipment,A,Processing Equipment,Equipment,Current,1999-01-01,2099-01-01
+74,91,91,-4000,Scribble Plastic Supplies        ,492.4,405.74,397.63,-9999.99,7,Plastic Supplies,B,Disposable Supplies,Supplies,Current,1999-01-01,2099-01-01
+75,76,76,-4000,Scrounge Jacks                   ,301.58,251.22,248.71,-9999.99,15,Jacks,D,Miscellaneous,Misc,Current,1999-01-01,2099-01-01
+76,8,8,34,Septembers Manufacturing Equipment   ,584.33,522.98,517.75,217,2,Manufacturing Equipment,A,Processing Equipment,Equipment,Current,1999-01-01,2099-01-01
+77,79,79,-4000,Siena Plastic Supplies           ,155.03,136.43,132.34,-9999.99,7,Plastic Supplies,B,Disposable Supplies,Supplies,Current,1999-01-01,2099-01-01
+78,47,47,-4000,Significants Freezing Chemicals  ,141.55,113.24,104.18,-9999.99,11,Freezing Chemicals,C,Chemicals,Chemicals,Current,1999-01-01,2099-01-01
+79,31,31,-4000,Simplifier Tray Supplies         ,408.81,349.12,328.17,-9999.99,8,Tray Supplies,B,Disposable Supplies,Supplies,Current,1999-01-01,2099-01-01
+80,71,71,26,Simulations Photo Equipment      ,318.38,255.66,245.43,193,1,Photo Equipment,A,Processing Equipment,Equipment,Current,1999-01-01,2099-01-01
+81,45,45,-4000,Slacking Jacks                   ,495.04,399.99,387.99,-9999.99,15,Jacks,D,Miscellaneous,Misc,Current,1999-01-01,2099-01-01
+82,3,3,17,Sortie Covers                    ,248.21,213.21,206.81,206.81,13,Covers,D,Miscellaneous,Misc,Current,1999-01-01,2099-01-01
+83,57,57,-4000,South Tray Supplies              ,241.3,205.1,203.05,-9999.99,8,Tray Supplies,B,Disposable Supplies,Supplies,Current,1999-01-01,2099-01-01
+84,86,86,-4000,Soya Cleaning Supplies           ,406.93,345.89,345.89,-9999.99,5,Cleaning Supplies,B,Disposable Supplies,Supplies,Current,1999-01-01,2099-01-01
+85,97,97,-4000,Stickiest Paper Supplies         ,575.92,502.78,467.59,-9999.99,6,Paper Supplies,B,Disposable Supplies,Supplies,Current,1999-01-01,2099-01-01
+86,26,26,40,Subclasses Polishing Equipment   ,282.51,239,236.61,210,3,Polishing Equipment,A,Processing Equipment,Equipment,Current,1999-01-01,2099-01-01
+87,62,62,-4000,Substances Flushing Chemicals    ,507.34,409.93,397.63,-9999.99,10,Flushing Chemicals,C,Chemicals,Chemicals,Current,1999-01-01,2099-01-01
+88,87,87,30,Suing Manufacturing Equipment        ,482.16,426.71,401.11,329,2,Manufacturing Equipment,A,Processing Equipment,Equipment,Current,1999-01-01,2099-01-01
+89,11,11,41,Sulkiness Covers                 ,354.3,289.82,272.43,272.43,13,Covers,D,Miscellaneous,Misc,Current,1999-01-01,2099-01-01
+90,38,38,15,Syntax Polishing Equipment       ,226.72,190.9,177.54,123,3,Polishing Equipment,A,Processing Equipment,Equipment,Current,1999-01-01,2099-01-01
+91,2,2,3,Tailor Jacks                     ,509.78,429.74,399.66,399.66,15,Jacks,D,Miscellaneous,Misc,Current,1999-01-01,2099-01-01
+92,80,80,-4000,Temporally Plastic Supplies      ,477.53,408.29,371.54,-9999.99,7,Plastic Supplies,B,Disposable Supplies,Supplies,Current,1999-01-01,2099-01-01
+93,59,59,-4000,Tonnage Plastic Supplies         ,368.75,315.65,309.34,-9999.99,7,Plastic Supplies,B,Disposable Supplies,Supplies,Current,1999-01-01,2099-01-01
+94,89,89,-4000,Travel Paper Supplies            ,129.85,108.81,103.37,-9999.99,6,Paper Supplies,B,Disposable Supplies,Supplies,Current,1999-01-01,2099-01-01
+95,12,12,14,Travelings Photo Chemicals       ,274.39,242.01,225.07,225.07,12,Fillers,D,Miscellaneous,Misc,Current,1999-01-01,2099-01-01
+96,84,84,-4000,Unjust Paper Supplies            ,222.48,182.21,176.74,-9999.99,6,Paper Supplies,B,Disposable Supplies,Supplies,Current,1999-01-01,2099-01-01
+97,77,77,27,Vastest Photo Equipment          ,498.08,442.3,420.19,294,1,Photo Equipment,A,Processing Equipment,Equipment,Current,1999-01-01,2099-01-01
+98,88,88,-4000,Vestiges Tray Supplies           ,231.45,192.1,186.34,-9999.99,8,Tray Supplies,B,Disposable Supplies,Supplies,Current,1999-01-01,2099-01-01
+99,49,49,-4000,Visage Flushing Chemicals        ,567.75,507.57,466.96,-9999.99,10,Flushing Chemicals,C,Chemicals,Chemicals,Current,1999-01-01,2099-01-01
+100,63,63,21,Weeks Polishing Equipment        ,198.83,174.18,168.95,151,3,Polishing Equipment,A,Processing Equipment,Equipment,Current,1999-01-01,2099-01-01
+101,103,-4000,-4000,Whale Lifts                      ,493.4,406.78,385.43,-9999.99,14,Lifts,D,Miscellaneous,Misc,Current,1999-01-01,2099-01-01
+102,22,22,-4000,Whippers Covers                  ,488.61,410.43,389.91,-9999.99,13,Covers,D,Miscellaneous,Misc,Current,1999-01-01,2099-01-01
+103,28,28,-4000,Wonderingly Covers               ,547.21,467.32,453.3,-9999.99,13,Covers,D,Miscellaneous,Misc,Current,1999-01-01,2099-01-01
